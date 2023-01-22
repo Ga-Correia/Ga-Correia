@@ -2,7 +2,6 @@
 
 - 💻 Atualmente sou estudante do ICT-Unifesp, no curso de Interdisciplinar em Ciência e Tecnologia. Futuramente, após o término do curso, pretendo me especializar em Ciência da Computação.
 - 💻 Os códigos postados aqui são referentes à algumas matérias que estou cursando em minha grade curricular.
-- 🏀🏓🎮 Nas horas livres gosto de jogar basquete, ping-pong ou video-game.
 
 <div align="center">
   <a href="https://github.com/Ga-Correia">

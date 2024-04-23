@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo! Meu nome é Gabriel Correia 👋
 
-- 💻 Atualmente sou estudante do ICT-Unifesp, no curso de Interdisciplinar em Ciência e Tecnologia. Futuramente, após o término do curso, pretendo me especializar em Ciência da Computação.
-- 💻 Os códigos postados aqui são referentes à algumas matérias que estou cursando em minha grade curricular.
+- 💻 Estudante de Ciência da Computação no ICT-Unifesp
+- 💻 Os códigos postados aqui são referentes à algumas matérias que estou cursando em minha grade curricular e projetos que desenvolvi.
 
 <div align="center">
   <a href="https://github.com/Ga-Correia">
